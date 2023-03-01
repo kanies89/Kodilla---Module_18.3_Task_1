@@ -1,6 +1,7 @@
 # Tensorflow-picture-classification
 
-Python / Jupyter notebook libraries: pandas / numpy / seaborn / scikit-learn / tensorflow
+Python / Jupyter notebook 
+libraries: pandas / numpy / seaborn / scikit-learn / tensorflow / albumentations
 
 Applying TensorFlow on Fashion-Mnist dataset to make a simple classification neural network. Using only Dense and Flatten layers.
 Checking if there is a limit of how much progress I can get using those layers.
